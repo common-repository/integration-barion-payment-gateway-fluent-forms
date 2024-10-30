@@ -1,0 +1,36 @@
+{
+    "packages": [
+        {
+            "name": "barion/barion-web-php",
+            "version": "v1.4.11",
+            "version_normalized": "1.4.11.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/barion/barion-web-php.git",
+                "reference": "20c6505debf72a08ec540d5e56f474eab40b4390"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/barion/barion-web-php/zipball/20c6505debf72a08ec540d5e56f474eab40b4390",
+                "reference": "20c6505debf72a08ec540d5e56f474eab40b4390",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=7.3"
+            },
+            "time": "2024-04-02T11:27:29+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "PHP libary for Barion Smart Gateway API integration",
+            "support": {
+                "issues": "https://github.com/barion/barion-web-php/issues",
+                "source": "https://github.com/barion/barion-web-php/tree/v1.4.11"
+            },
+            "install-path": "../barion/barion-web-php"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
